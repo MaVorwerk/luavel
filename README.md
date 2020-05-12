@@ -1,2 +1,2 @@
 # luavel
-Lua Framework
+ Framework for Lua
